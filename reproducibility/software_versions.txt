@@ -1,0 +1,9 @@
+Software versions
+=================
+Wed Jul 15 18:53:55 NZST 2026
+
+FastQC v0.12.1
+multiqc, version 1.18
+2.7.11b
+samtools 1.23
+R version 4.6.1 (2026-06-24) -- "Happy Hop"
