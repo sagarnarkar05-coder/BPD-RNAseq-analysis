@@ -319,7 +319,7 @@ The scripts used for the analyses reported in the manuscript are provided in thi
 
 A versioned release of the repository will be archived in Zenodo for long-term access.
 
-**Zenodo DOI:** TO BE ADDED
+**Zenodo DOI:** https://doi.org/10.5281/zenodo.23660989
 
 ## Citation
 
